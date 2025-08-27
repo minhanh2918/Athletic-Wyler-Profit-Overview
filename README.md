@@ -1,12 +1,14 @@
-# Alhletic Wyler Profit Overview
+# Athletic Wyler Profit Overview
 <img width="2385" height="1366" alt="image" src="https://github.com/user-attachments/assets/6a0ff504-855c-478f-9150-3f2276b55278" />
 
 # Project Overview
-Athletic Wyler, a sports company specializing in selling cardio exercise machines, is tracking the profit performance of its products from January 2018 to May 2024. The company needs
+Athletic Wyler, a sports company specialising in selling cardio exercise machines, is tracking the profit performance of its products from January 2018 to May 2024. The company needs
 to determine which product(s) will be the best seller and decide whether to discontinue the others.
+
 # Dataset
 - The dataset covers historical transactions from the company’s sales/profit system covering Jan-2018 → May-2024.
 - It contains aggregated monthly profit values by Category, Supplier, and Brand.
+  
 # Key Features:
 - date (transaction month/year).
 - category (Treadmill, Rowing Machine, Airbike, Elliptical Trainer).
@@ -16,10 +18,10 @@ to determine which product(s) will be the best seller and decide whether to disc
 
 # Steps to reproduce
 **1. Import Datas:** 
-- The project begins by importing essential datas in Excel for data manipulation and visualisation.
+- The project begins by importing essential data into Excel for data manipulation and visualisation.
 
 **2. Data Collection:**
-- Collect Data: The dataset records monthly profits between Jan 2018 – May 2024.
+- Collect Data: The dataset records monthly profits between January 2018 and May 2024.
   
 **3. Data Cleaning**
   
