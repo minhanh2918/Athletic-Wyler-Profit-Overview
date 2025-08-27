@@ -1,15 +1,12 @@
-# Sport Equipment Profit Overview
+# Alhletic Wyler Profit Overview
 <img width="2385" height="1366" alt="image" src="https://github.com/user-attachments/assets/6a0ff504-855c-478f-9150-3f2276b55278" />
 
 # Project Overview
-This project analyses a sports equipment shop's cardio equipment portfolio to identify top-selling products and low performers, enabling the company to reallocate marketing, inventory, and supplier focus. 
+Athletic Wyler, a sports company specializing in selling cardio exercise machines, is tracking the profit performance of its products from January 2018 to May 2024. The company needs
+to determine which product(s) will be the best seller and decide whether to discontinue the others.
 # Dataset
 - The dataset covers historical transactions from the company’s sales/profit system covering Jan-2018 → May-2024.
 - It contains aggregated monthly profit values by Category, Supplier, and Brand.
-# Business rules & assumptions
-SKU definition: a product is uniquely identified by the triple (Category, Supplier, Brand). Same name with a different Supplier and/or Brand ⇒ a different SKU.
-Erroneous record: a single Vending Machine entry dated 2018-01-01 is assumed test/entry error and removed.
-Spelling normalised (e.g., Elliptical vs Eliptical), categorical values trimmed/cased.
 # Key Features:
 - date (transaction month/year).
 - category (Treadmill, Rowing Machine, Airbike, Elliptical Trainer).
